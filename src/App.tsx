@@ -204,7 +204,7 @@ function App() {
             </p>
             <div className="flex space-x-6">
               <a
-                href="https://github.com"
+                href="https://github.com/Jibaru"
                 className="text-gray-400 hover:text-white"
               >
                 <Github className="h-6 w-6" />
